@@ -48,7 +48,7 @@
     "js-yaml": "^3.14.1",
     "lcov-parse": "^1.0.0",
     "log-driver": "^1.2.7",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.8",
     "request": "^2.88.2"
   },
   "devDependencies": {
